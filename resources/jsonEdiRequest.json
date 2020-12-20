@@ -15,14 +15,14 @@
                     },
                     "party": {
                         "nameIdentification": {
-                            "name": "Mads Christensen"
+                            "name": "Afsender navn"
                         },
                         "address": {
                             "streets": [
-                              "uedhquehquehq"
+                              "Test street 321"
                               ],
                             "postalCode": "17173",
-                            "city": "Solna eeeeeey",
+                            "city": "Solna",
                             "countryCode": "SE"
                         }
                     }
@@ -30,7 +30,7 @@
                 "consignee": {
                     "party": {
                         "nameIdentification": {
-                            "name": "consignee"
+                            "name": "Modtager navn"
                         },
                         "address": {
                             "streets": [
