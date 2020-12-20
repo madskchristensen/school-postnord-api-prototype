@@ -1,0 +1,59 @@
+{
+    "messageDate": "2020-11-26T13:39:59.9125844+00:00",
+    "updateIndicator": "Original",
+    "shipment": [
+        {
+            "service": {
+                "basicServiceCode": "19"
+            },
+            "parties": {
+                "consignor": {
+                    "issuerCode": "Z12",
+                    "partyIdentification": {
+                        "partyId": "1111111111",
+                        "partyIdType": "160"
+                    },
+                    "party": {
+                        "nameIdentification": {
+                            "name": "Mads Christensen"
+                        },
+                        "address": {
+                            "streets": [
+                              "uedhquehquehq"
+                              ],
+                            "postalCode": "17173",
+                            "city": "Solna eeeeeey",
+                            "countryCode": "SE"
+                        }
+                    }
+                },
+                "consignee": {
+                    "party": {
+                        "nameIdentification": {
+                            "name": "consignee"
+                        },
+                        "address": {
+                            "streets": [
+                              "Test adresse 123"
+                              ],
+                            "postalCode": "9800",
+                            "city": "Hjørring",
+                            "countryCode": "DK"
+                        }
+                    }
+                }
+            },
+            "goodsItem": [
+                {
+                    "items": [
+                        {
+                            "itemIdentification": {
+                                "itemId": "0"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
